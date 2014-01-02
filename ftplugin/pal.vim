@@ -1,7 +1,7 @@
 " Vim filetype plugin
 " Language:     pal calendar files
-" Maintainer:   Martin Hoppenheit <martin.hoppenheit@brhf.de>
-" Last Change:  2013 Dec 13
+" Maintainer:   Martin Hoppenheit <martin@hoppenheit.info>
+" Last Change:  2014 Jan 02
 
 if (exists("b:did_ftplugin"))
     finish
