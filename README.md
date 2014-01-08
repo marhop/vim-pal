@@ -7,7 +7,7 @@ Vim syntax highlighting for pal calendar files.
 If you like installing your plugins with [Pathogen] [Pathogen], just do:
 
     cd ~/.vim/bundle
-    git clone git://github.com/brhf/vim-pal.git
+    git clone git://github.com/marhop/vim-pal.git
 
 Otherwise, well, copy stuff.
 
