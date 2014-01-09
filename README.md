@@ -1,10 +1,12 @@
 # vim-pal
 
-Vim syntax highlighting for pal calendar files.
+Vim syntax highlighting for [pal] calendar files.
+
+[pal]: http://palcal.sourceforge.net
 
 ## Installation
 
-If you like installing your plugins with [Pathogen] [Pathogen], just do:
+If you like installing your plugins with [Pathogen], just do:
 
     cd ~/.vim/bundle
     git clone git://github.com/marhop/vim-pal.git
